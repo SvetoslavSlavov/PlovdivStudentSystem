@@ -1,0 +1,219 @@
+D:\PlovdivUniversity\PlovdivUniversity\bin\roslyn\csc.exe
+D:\PlovdivUniversity\PlovdivUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PlovdivUniversity\PlovdivUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PlovdivUniversity\PlovdivUniversity\bin\roslyn\System.Collections.Immutable.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\roslyn\System.Reflection.Metadata.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\roslyn\vbc.exe
+D:\PlovdivUniversity\PlovdivUniversity\bin\roslyn\VBCSCompiler.exe
+D:\PlovdivUniversity\PlovdivUniversity\bin\roslyn\VBCSCompiler.exe.config
+D:\PlovdivUniversity\PlovdivUniversity\bin\PlovdivUniversity.dll.config
+D:\PlovdivUniversity\PlovdivUniversity\bin\PlovdivUniversity.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\PlovdivUniversity.pdb
+D:\PlovdivUniversity\PlovdivUniversity\bin\Antlr3.Runtime.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\EntityFramework.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\EntityFramework.SqlServer.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Security.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Security.Google.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Web.Infrastructure.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Newtonsoft.Json.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Owin.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\System.Web.Helpers.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\System.Web.Mvc.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\System.Web.Optimization.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\System.Web.Razor.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\System.Web.WebPages.Deployment.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\System.Web.WebPages.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\System.Web.WebPages.Razor.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\WebGrease.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\System.Web.Helpers.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\System.Web.Mvc.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\System.Web.Optimization.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\System.Web.Razor.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\System.Web.WebPages.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\System.Web.WebPages.Deployment.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\System.Web.WebPages.Razor.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\Antlr3.Runtime.pdb
+D:\PlovdivUniversity\PlovdivUniversity\bin\Newtonsoft.Json.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\EntityFramework.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\EntityFramework.SqlServer.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Security.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Security.Google.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PlovdivUniversity\PlovdivUniversity\obj\Debug\PlovdivUniversity.csprojResolveAssemblyReference.cache
+D:\PlovdivUniversity\PlovdivUniversity\obj\Debug\PlovdivUniversity.dll
+D:\PlovdivUniversity\PlovdivUniversity\obj\Debug\PlovdivUniversity.pdb
+D:\PlovdivUniversity\PlovdivUniversity\bin\PagedList.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\PagedList.Mvc.dll
+D:\PlovdivUniversity\PlovdivUniversity\bin\PagedList.xml
+D:\PlovdivUniversity\PlovdivUniversity\bin\PagedList.Mvc.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\roslyn\csc.exe
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\roslyn\System.Collections.Immutable.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\roslyn\System.Reflection.Metadata.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\roslyn\vbc.exe
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\roslyn\VBCSCompiler.exe
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\roslyn\VBCSCompiler.exe.config
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\PlovdivUniversity.dll.config
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\PlovdivUniversity.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\PlovdivUniversity.pdb
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Antlr3.Runtime.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\EntityFramework.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\EntityFramework.SqlServer.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Security.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Security.Google.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Web.Infrastructure.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Newtonsoft.Json.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Owin.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\PagedList.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\PagedList.Mvc.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\System.Web.Helpers.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\System.Web.Mvc.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\System.Web.Optimization.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\System.Web.Razor.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\System.Web.WebPages.Deployment.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\System.Web.WebPages.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\System.Web.WebPages.Razor.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\WebGrease.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\PagedList.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\PagedList.Mvc.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\System.Web.Helpers.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\System.Web.Mvc.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\System.Web.Optimization.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\System.Web.Razor.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\System.Web.WebPages.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\System.Web.WebPages.Deployment.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\System.Web.WebPages.Razor.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Antlr3.Runtime.pdb
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Newtonsoft.Json.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\EntityFramework.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\EntityFramework.SqlServer.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Security.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Security.Google.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Plovdiv University For My Friend\PlovdivUniversity\obj\Debug\PlovdivUniversity.csprojResolveAssemblyReference.cache
+D:\Plovdiv University For My Friend\PlovdivUniversity\obj\Debug\PlovdivUniversity.dll
+D:\Plovdiv University For My Friend\PlovdivUniversity\obj\Debug\PlovdivUniversity.pdb
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\roslyn\csc.exe
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\roslyn\System.Collections.Immutable.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\roslyn\System.Reflection.Metadata.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\roslyn\vbc.exe
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\roslyn\VBCSCompiler.exe
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\roslyn\VBCSCompiler.exe.config
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\PlovdivUniversity.dll.config
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\PlovdivUniversity.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\PlovdivUniversity.pdb
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Antlr3.Runtime.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\EntityFramework.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\EntityFramework.SqlServer.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Security.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Security.Google.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Web.Infrastructure.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Newtonsoft.Json.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Owin.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\PagedList.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\PagedList.Mvc.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\System.Web.Helpers.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\System.Web.Mvc.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\System.Web.Optimization.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\System.Web.Razor.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\System.Web.WebPages.Deployment.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\System.Web.WebPages.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\System.Web.WebPages.Razor.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\WebGrease.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\PagedList.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\PagedList.Mvc.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\System.Web.Helpers.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\System.Web.Mvc.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\System.Web.Optimization.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\System.Web.Razor.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\System.Web.WebPages.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\System.Web.WebPages.Deployment.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\System.Web.WebPages.Razor.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Antlr3.Runtime.pdb
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Newtonsoft.Json.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\EntityFramework.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\EntityFramework.SqlServer.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Security.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Security.Google.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\obj\Debug\PlovdivUniversity.csprojResolveAssemblyReference.cache
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\obj\Debug\PlovdivUniversity.dll
+E:\Изтегляния\StudentSystem-master (2)\StudentSystem-master\PlovdivUniversity\obj\Debug\PlovdivUniversity.pdb
